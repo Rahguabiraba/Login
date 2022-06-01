@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="toast1_create_login">All fields Required</string>
+    <string name="toast2_create_login">User Created Correctly</string>
+    <string name="toast3_create_login">Creation Failed</string>
+    <string name="toast4_create_login">User Already Exists</string>
+    <string name="toast5_create_login">Passwords are not matching</string>
+    <string name="toast6_create_login">Login Successful</string>
+    <string name="toast7_create_login">Login Failed</string>
+</resources>
